@@ -1,0 +1,4 @@
+langchain
+gnewsclient
+streamlit
+GoogleNews
